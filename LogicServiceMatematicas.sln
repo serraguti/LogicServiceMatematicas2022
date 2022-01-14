@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicServiceMatematicas", "LogicServiceMatematicas\LogicServiceMatematicas.csproj", "{3C88BA98-6C2A-496A-B148-9EE159F095CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostServiceNumeroDoble", "HostServiceNumeroDoble\HostServiceNumeroDoble.csproj", "{318BD0DA-0876-41F5-ABFF-00910B641D89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3C88BA98-6C2A-496A-B148-9EE159F095CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C88BA98-6C2A-496A-B148-9EE159F095CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C88BA98-6C2A-496A-B148-9EE159F095CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318BD0DA-0876-41F5-ABFF-00910B641D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318BD0DA-0876-41F5-ABFF-00910B641D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318BD0DA-0876-41F5-ABFF-00910B641D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318BD0DA-0876-41F5-ABFF-00910B641D89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

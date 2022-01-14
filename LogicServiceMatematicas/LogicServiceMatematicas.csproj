@@ -33,6 +33,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -43,8 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="INumeroDobleContract.cs" />
+    <Compile Include="IServiceTablaMultiplicar.cs" />
     <Compile Include="NumeroDobleClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceTablaMultiplicarClass.cs" />
+    <Compile Include="TablaMultiplicar.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
